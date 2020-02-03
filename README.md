@@ -17,7 +17,7 @@ If you like this project please donate to preferred cryptocurrency below:
 1CgtAQAdHvqic6JUxFcC3x2A73YgQwWRoW
 
 <p>
-  <img src="https://github.com/ruslankonev/BlockNOTE/blob/master/resources/bitcoin.png?raw=true">
+  <img src="https://github.com/ruslankonev/BlockNOTE/blob/master/img/bitcoin.png?raw=true">
 </p>
 
 ### Stacks
@@ -25,7 +25,7 @@ If you like this project please donate to preferred cryptocurrency below:
 SPSHP74J2FRYZPD6MAKZWV0MPY5XG88328NMWQ2F
 
 <p>
-  <img src="https://github.com/ruslankonev/BlockNOTE/blob/master/resources/stacks.png?raw=true">
+  <img src="https://github.com/ruslankonev/BlockNOTE/blob/master/img/stacks.png?raw=true">
 </p>
 
 ### Etherium
