@@ -1,0 +1,11 @@
+{
+  "mainMenu": {
+    "logout": "Sign out"
+  },
+  "asideMenu": {
+    "newNote": "New note"
+  },
+  "footer": {
+    "donate": "Become a Sponsor"
+  }
+}
